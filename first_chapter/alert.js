@@ -27,5 +27,7 @@
 // alert(`The Total of Your Order is $${T_shirt + socks + dinner_plates}`)
 
 // Task No 9 we have in bank accout $100, we spend $20 on launch, $50 on dinner and we earn $200 now calculate how much money we have in the account for this we use Alert or Console
-alert(`We have $${100 - 20 - 50 + 200} Money in the bank account`)
+// alert(`We have $${100 - 20 - 50 + 200} Money in the bank account`)
 
+// Task No 10 make the web page Blank using document.body.innerHTML
+document.body.innerHTML = ""
