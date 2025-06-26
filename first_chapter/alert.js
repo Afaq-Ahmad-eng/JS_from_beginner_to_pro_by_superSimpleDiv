@@ -21,7 +21,11 @@
 
 // Challenge Excercises
 // Task No 8 Total cost of your order using Alert or console, we use ALert
-let T_shirt = 10;
-let socks = 8;
-let dinner_plates = 20;
-alert(`The Total of Your Order is $${T_shirt + socks + dinner_plates}`)
+// let T_shirt = 10;
+// let socks = 8;
+// let dinner_plates = 20;
+// alert(`The Total of Your Order is $${T_shirt + socks + dinner_plates}`)
+
+// Task No 9 we have in bank accout $100, we spend $20 on launch, $50 on dinner and we earn $200 now calculate how much money we have in the account for this we use Alert or Console
+alert(`We have $${100 - 20 - 50 + 200} Money in the bank account`)
+
