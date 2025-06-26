@@ -8,4 +8,7 @@
 // console.log(`Calculate 10 + 5 = ${10 + 5}`);
 
 // Task No 4 calculate 20 - 5 in the console
-console.log(`Calculate 20 - 5 = ${20 - 5}`);
+// console.log(`Calculate 20 - 5 = ${20 - 5}`);
+
+// Task No 5 calculate 2 + 2 - 5 in the console
+console.log(`Calculate 2 + 2 - 5 = ${2 + 2 - 5}`);
