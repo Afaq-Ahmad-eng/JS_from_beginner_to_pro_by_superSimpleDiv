@@ -5,4 +5,7 @@
 // alert("My name is Afaq Ahmad Ali Khan Kundi!")
 
 // Task No 3 calculate 10 + 5 in the console
-console.log(`Calculate 10 + 5 = ${10 + 5}`);
+// console.log(`Calculate 10 + 5 = ${10 + 5}`);
+
+// Task No 4 calculate 20 - 5 in the console
+console.log(`Calculate 20 - 5 = ${20 - 5}`);
