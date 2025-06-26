@@ -17,4 +17,11 @@
 // document.body.innerHTML = "Good Morning"
 
 // Task No 7 change the web page content to Name using document.body.innerHtml
-document.body.innerHTML = "Afaq Ahmad Ali Khan Kundi"
+// document.body.innerHTML = "Afaq Ahmad Ali Khan Kundi"
+
+// Challenge Excercises
+// Task No 8 Total cost of your order using Alert or console, we use ALert
+let T_shirt = 10;
+let socks = 8;
+let dinner_plates = 20;
+alert(`The Total of Your Order is $${T_shirt + socks + dinner_plates}`)
