@@ -14,4 +14,7 @@
 // console.log(`Calculate 2 + 2 - 5 = ${2 + 2 - 5}`);
 
 // Task No 6 change the web page content to Good Morning using document.body.innerHtml
-document.body.innerHTML = "Good Morning"
+// document.body.innerHTML = "Good Morning"
+
+// Task No 7 change the web page content to Name using document.body.innerHtml
+document.body.innerHTML = "Afaq Ahmad Ali Khan Kundi"
