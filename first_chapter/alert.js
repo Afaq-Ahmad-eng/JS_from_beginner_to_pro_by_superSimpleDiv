@@ -2,4 +2,7 @@
 // alert("Good Morning!")
 
 // Task No 2 show name in popup means using Alert
-alert("My name is Afaq Ahmad Ali Khan Kundi!")
+// alert("My name is Afaq Ahmad Ali Khan Kundi!")
+
+// Task No 3 calculate 10 + 5 in the console
+console.log(`Calculate 10 + 5 = ${10 + 5}`);
