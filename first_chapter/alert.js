@@ -11,4 +11,7 @@
 // console.log(`Calculate 20 - 5 = ${20 - 5}`);
 
 // Task No 5 calculate 2 + 2 - 5 in the console
-console.log(`Calculate 2 + 2 - 5 = ${2 + 2 - 5}`);
+// console.log(`Calculate 2 + 2 - 5 = ${2 + 2 - 5}`);
+
+// Task No 6 change the web page content to Good Morning using document.body.innerHtml
+document.body.innerHTML = "Good Morning"
